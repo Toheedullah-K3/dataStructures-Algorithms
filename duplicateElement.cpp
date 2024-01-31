@@ -12,7 +12,7 @@ bool findDuplicate(int arr[], int size) {
         seen.insert(arr[i]);
     }
 
-    // No duplicates found
+    
     return false;
 }
 
@@ -30,3 +30,5 @@ int main() {
 
     return 0;
 }
+
+// Duplicate Elements Array !-! this is a duplicate element !-! maximum SubArray !-! github.com/dataStructure-Algorithms
